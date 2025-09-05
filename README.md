@@ -59,5 +59,5 @@ creenshot 2025-09-05 at 12 33 13 PM" src="https://github.com/user-attachments/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/wealthpro-dashboard.git
+git clone https://github.com/sultancode123/wealthpro-dashboard.git
 cd wealthpro-dashboard
